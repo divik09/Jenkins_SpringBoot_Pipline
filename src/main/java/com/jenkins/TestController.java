@@ -8,6 +8,6 @@ public class TestController {
 
 	@GetMapping()
 	public String test() {
-		return "<h1 align='center' style='color:red'>This is Testing website Successfully Launched !!!</h1>";
+		return "<h1 align='center' style='color:red'>This is Testing website Successfully Launched</h1>";
 	}
 }
